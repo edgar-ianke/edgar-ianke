@@ -1,5 +1,4 @@
 ![Header](https://github.com/edgar-ianke/edgar-ianke/blob/main/header.png?raw=true)
-## Frontend Developer
 
 ### Мои проекты: 
 - [Mesto - сайт наподобии инстаграмма с возможностью добавления фотографий](https://github.com/edgar-ianke/mesto-project) - HTML, CSS, Vanilla JS, OOP, Fetch Api
