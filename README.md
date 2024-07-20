@@ -1,4 +1,4 @@
-![Header](https://github.com/edgar-ianke/edgar-ianke/blob/main/header.png?raw=true)
+![Header](./your-header-image-name.png)
 
 ### Мои проекты: 
 - [Tasker - менеджер задач](https://github.com/edgar-ianke/pet-proj-task-manager) - TS, Scss, React, React DnD, Redux ToolKit
