@@ -1,7 +1,7 @@
 ![Header](./github-header-image.png)
 
 ### Мои проекты: 
-- [Tasker - менеджер задач](https://github.com/edgar-ianke/pet-proj-task-manager) - TS, Scss, React, React DnD, Redux ToolKit
+- [ChTD - менеджер задач](https://github.com/edgar-ianke/pet-proj-task-manager) - TS, Scss, React, React DnD, Redux ToolKit
 - [Mesto - сервис для обмена и оценки фотографий](https://github.com/edgar-ianke/mesto-project) - HTML, CSS, Vanilla JS, OOP
 - [Бэкэнд проекта Mesto](https://github.com/edgar-ianke/mesto-project-plus) - Express, MongoDB
 - [Бэкэнд сервиса вишлистов КупиПодариДай](https://github.com/edgar-ianke/kupipodariday-backend) - NestJS, PostgreSQL
