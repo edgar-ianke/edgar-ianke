@@ -9,7 +9,7 @@
 - [Algososh - визуализатор алгоритмов](https://github.com/edgar-ianke/algososh) - TS, CSS, React
 - [Докеризация проекта КупиПодариДай](https://github.com/edgar-ianke/web-plus-docker-and-compose) - Docker, Docker-compose, Nginx, PM2
 ### Мои навыки:
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,scss,react,redux,nestjs,express,postgres,mongodb,docker,materialui)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,scss,react,redux,nestjs,postgres,mongodb)](https://skillicons.dev)
 
 ## CodeWars Profile:
 ![](https://www.codewars.com/users/edgar-ianke/badges/large)
